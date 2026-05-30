@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Jiang Congxin bioinformatics profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#eef7f6"/>
+    </linearGradient>
+    <style>
+      .label { font: 700 14px Arial, Helvetica, sans-serif; fill: #0f766e; letter-spacing: 2px; }
+      .title { font: 800 48px Arial, Helvetica, sans-serif; fill: #111827; }
+      .sub { font: 500 21px Arial, Helvetica, sans-serif; fill: #475569; }
+      .small { font: 700 13px Arial, Helvetica, sans-serif; fill: #334155; }
+      .dot { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .dot:nth-of-type(2n) { animation-delay: .35s; }
+      .dot:nth-of-type(3n) { animation-delay: .7s; }
+      @keyframes pulse {
+        0%, 100% { opacity: .42; }
+        50% { opacity: .95; }
+      }
+      .track { stroke-dasharray: 320; stroke-dashoffset: 320; animation: draw 6s ease-in-out infinite; }
+      @keyframes draw {
+        0% { stroke-dashoffset: 320; opacity: .35; }
+        45%, 70% { stroke-dashoffset: 0; opacity: .9; }
+        100% { stroke-dashoffset: -320; opacity: .35; }
+      }
+    </style>
+  </defs>
+  <rect width="1200" height="330" fill="url(#bg)"/>
+  <rect x="42" y="38" width="1116" height="254" rx="18" fill="#ffffff" stroke="#d7dde5"/>
+  <g transform="translate(84 76)">
+    <text class="label" x="0" y="0">MEDICAL OMICS · BIOINFORMATICS</text>
+    <text class="title" x="0" y="62">Jiang Congxin</text>
+    <text class="sub" x="0" y="104">single-cell · spatial transcriptomics · wound repair · scar biology</text>
+    <g transform="translate(0 148)">
+      <rect x="0" y="0" width="124" height="36" rx="8" fill="#ecfeff" stroke="#a5f3fc"/>
+      <text class="small" x="18" y="24">R / Python</text>
+      <rect x="142" y="0" width="142" height="36" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+      <text class="small" x="160" y="24">single-cell</text>
+      <rect x="302" y="0" width="128" height="36" rx="8" fill="#f0fdf4" stroke="#bbf7d0"/>
+      <text class="small" x="320" y="24">spatial</text>
+      <rect x="448" y="0" width="152" height="36" rx="8" fill="#fff7ed" stroke="#fed7aa"/>
+      <text class="small" x="466" y="24">figure tools</text>
+    </g>
+  </g>
+  <g transform="translate(760 76)">
+    <rect x="0" y="0" width="320" height="190" rx="14" fill="#f8fafc" stroke="#d7dde5"/>
+    <path class="track" d="M34 132 C88 62, 134 172, 186 92 S270 54, 292 126" fill="none" stroke="#0f766e" stroke-width="3" stroke-linecap="round"/>
+    <g>
+      <circle class="dot" cx="64" cy="104" r="9" fill="#2563eb"/>
+      <circle class="dot" cx="92" cy="82" r="7" fill="#2563eb"/>
+      <circle class="dot" cx="128" cy="132" r="8" fill="#2563eb"/>
+      <circle class="dot" cx="188" cy="94" r="9" fill="#dc2626"/>
+      <circle class="dot" cx="218" cy="72" r="7" fill="#dc2626"/>
+      <circle class="dot" cx="252" cy="116" r="8" fill="#dc2626"/>
+      <circle class="dot" cx="154" cy="72" r="6" fill="#16a34a"/>
+      <circle class="dot" cx="278" cy="88" r="6" fill="#16a34a"/>
+    </g>
+    <g transform="translate(34 154)">
+      <rect width="54" height="8" rx="4" fill="#2563eb" opacity=".72"/>
+      <rect x="70" width="80" height="8" rx="4" fill="#0f766e" opacity=".72"/>
+      <rect x="166" width="102" height="8" rx="4" fill="#dc2626" opacity=".72"/>
+    </g>
+  </g>
+</svg>
