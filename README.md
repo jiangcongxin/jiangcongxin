@@ -19,7 +19,6 @@ I focus on turning clinical questions into traceable analysis pipelines, interpr
 |---|---|---|
 | [ncfigR](https://github.com/jiangcongxin/ncfigR) | R package | Draws common bioinformatics figure panels from tidy source-data tables. |
 | [NC Bioinformatics Figure Skills](https://github.com/jiangcongxin/nc-bioinformatics-figure-skills) | Codex skill | A figure-design learning library based on reproducible omics papers. |
-| [Jcxin-ai](https://github.com/jiangcongxin/Jcxin-ai) | Website | Personal research homepage and literature tracking interface. |
 
 ## Analysis Stack
 
@@ -44,4 +43,3 @@ reproducible figures / manuscript-ready outputs
 ## Contact
 
 - Email: [jcx981212@163.com](mailto:jcx981212@163.com)
-- Website: [jcxinai.com](https://www.jcxinai.com)
