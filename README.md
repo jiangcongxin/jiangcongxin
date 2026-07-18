@@ -4,15 +4,14 @@
 
 ## About
 
-Medical omics and bioinformatics analyst working across **plastic surgery, wound repair, and scar biology**. I turn clinical questions into traceable analysis pipelines, interpretable biological results, and manuscript-ready figures.
+Bioinformatics analyst working on wound repair and scar biology data — mostly single-cell and spatial omics. I build R packages when a problem keeps coming back.
 
-## 01 — Research Focus
+## 01 — Research
 
-- **Single-cell & spatial omics** — scRNA-seq and spatial transcriptomics for wound repair and scar biology
-- **Statistical modeling** — hierarchical Bayesian dynamic mixture models of fibroblast state plasticity
-- **Public data mining** — clinically relevant hypotheses from public cohorts and atlases
-- **Reproducible figures** — NC-style, source-data-driven figure tooling
-- **Medical AI** — clinical decision support and evidence-controlled scientific writing
+- Single-cell and spatial transcriptomics, mostly wound repair and scar data
+- Bayesian mixture models of fibroblast states
+- Public-cohort mining
+- Medical AI literature
 
 ## 02 — Featured Projects
 
