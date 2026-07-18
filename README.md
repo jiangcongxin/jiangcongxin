@@ -1,65 +1,36 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Jiang Congxin bioinformatics profile banner" width="100%">
+  <img src="assets/profile-banner.svg" alt="Jiang Congxin — Medical Omics & Bioinformatics" width="100%">
 </p>
 
-# Jiang Congxin
+## About
 
-Medical omics and bioinformatics analyst working across plastic surgery, wound repair, scar biology, public datasets, and reproducible research workflows.
+Medical omics and bioinformatics analyst working across **plastic surgery, wound repair, and scar biology**. I turn clinical questions into traceable analysis pipelines, interpretable biological results, and manuscript-ready figures.
 
-I focus on turning clinical questions into traceable analysis pipelines, interpretable biological results, and clean figures for manuscripts and collaboration.
+## 01 — Research Focus
 
-## Current Focus
+- **Single-cell & spatial omics** — scRNA-seq and spatial transcriptomics for wound repair and scar biology
+- **Statistical modeling** — hierarchical Bayesian dynamic mixture models of fibroblast state plasticity
+- **Public data mining** — clinically relevant hypotheses from public cohorts and atlases
+- **Reproducible figures** — NC-style, source-data-driven figure tooling
+- **Medical AI** — clinical decision support and evidence-controlled scientific writing
 
-- Single-cell RNA-seq and spatial transcriptomics for wound repair and scar biology
-- Public database mining for clinically relevant hypotheses
-- Multi-omics integration and pathway-level interpretation
-- R / Python workflows for reproducible analysis and figure generation
-- Medical AI and clinical decision-support literature tracking
-- AI-assisted scientific writing with evidence control and citation discipline
-
-## Tools and Projects
+## 02 — Featured Projects
 
 | Project | Type | What it is for |
 |---|---|---|
-| [ncfigR](https://github.com/jiangcongxin/ncfigR) | R package | Drawing common bioinformatics figure panels from tidy source-data tables. |
-| [NC Bioinformatics Figure Skills](https://github.com/jiangcongxin/nc-bioinformatics-figure-skills) | Codex skill | Learning figure design from reproducible omics papers. |
+| [FibroDynMix](https://github.com/jiangcongxin/FibroDynMix) | R package · [DOI](https://doi.org/10.5281/zenodo.20787527) | Hierarchical Bayesian dynamic mixture model of fibroblast state plasticity — simulator, NB optimizer, VI posterior, and cross-cohort transfer. |
+| [ncfigR](https://github.com/jiangcongxin/ncfigR) | R package | NC-style bioinformatics figure toolkit: common figure panels from tidy source-data tables. |
+| [nc-bioinformatics-figure-skills](https://github.com/jiangcongxin/nc-bioinformatics-figure-skills) | Codex skill | Figure design distilled from reproducible omics papers. |
 
-## Analysis Stack
+## 03 — Analysis Stack
 
-<p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Seurat-1F77B4?style=flat-square" alt="Seurat">
-  <img src="https://img.shields.io/badge/Scanpy-0F766E?style=flat-square" alt="Scanpy">
-  <img src="https://img.shields.io/badge/ggplot2-2C7FB8?style=flat-square" alt="ggplot2">
-  <img src="https://img.shields.io/badge/ComplexHeatmap-B23A31?style=flat-square" alt="ComplexHeatmap">
-  <img src="https://img.shields.io/badge/single--cell-334155?style=flat-square" alt="single-cell">
-  <img src="https://img.shields.io/badge/spatial--omics-4F8A5F?style=flat-square" alt="spatial omics">
-</p>
+`R` · `Python` · `Seurat` · `Scanpy` · `ggplot2` · `ComplexHeatmap` · `Bayesian modeling` · `Spatial omics`
 
-```text
-R / Python
-Seurat / Scanpy
-ggplot2 / ComplexHeatmap / patchwork
-single-cell RNA-seq / spatial transcriptomics
-public database mining / clinical research analytics
-reproducible figures / manuscript-ready outputs
-```
+## 04 — GitHub Stats
 
-## Research Directions
-
-- Plastic surgery and wound repair
-- Scar and keloid biology
-- Single-cell and multi-omics analysis
-- Public database mining
-- Medical AI and clinical decision support
-- AI-assisted scientific writing
-
-## GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jiangcongxin&show_icons=true&hide_title=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangcongxin&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiangcongxin&show_icons=true&hide_border=true&bg_color=0f1a0c&title_color=f6f6f4&text_color=a8b5a3&icon_color=778652&rank_icon=github" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangcongxin&layout=compact&hide_border=true&bg_color=0f1a0c&title_color=f6f6f4&text_color=a8b5a3" alt="Top languages" height="160">
 </p>
 
 ## Contact
