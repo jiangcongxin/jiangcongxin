@@ -1,37 +1,15 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Jiang Congxin — Medical Omics & Bioinformatics" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/canvas-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/canvas-light.svg">
+    <img src="assets/canvas-dark.svg" alt="Jiang Congxin — work index. FibroDynMix (R package): marker-anchored negative-binomial modeling of fibroblast-state mixtures from single-cell counts, with NB optimizer, VI posterior and cross-cohort transfer. ncfigR (R package): bioinformatics figure panels drawn from tidy source-data tables. nc-bioinformatics-figure-skills: NC-style figure training and plotting toolkits — a Codex skill, reference notes and seven R packages. Contact: jcx981212@163.com" width="100%">
+  </picture>
 </p>
-
-## About
-
-Bioinformatics analyst working on wound repair and scar biology data — mostly single-cell and spatial omics. I build R packages when a problem keeps coming back.
-
-## 01 — Research
-
-- Single-cell and spatial transcriptomics, mostly wound repair and scar data
-- Bayesian mixture models of fibroblast states
-- Public-cohort mining
-- Medical AI literature
-
-## 02 — Featured Projects
-
-| Project | Type | What it is for |
-|---|---|---|
-| [FibroDynMix](https://github.com/jiangcongxin/FibroDynMix) | R package · [DOI](https://doi.org/10.5281/zenodo.20787527) | Hierarchical Bayesian dynamic mixture model of fibroblast state plasticity — simulator, NB optimizer, VI posterior, and cross-cohort transfer. |
-| [ncfigR](https://github.com/jiangcongxin/ncfigR) | R package | NC-style bioinformatics figure toolkit: common figure panels from tidy source-data tables. |
-| [nc-bioinformatics-figure-skills](https://github.com/jiangcongxin/nc-bioinformatics-figure-skills) | Codex skill | Figure design distilled from reproducible omics papers. |
-
-## 03 — Analysis Stack
-
-`R` · `Python` · `Seurat` · `Scanpy` · `ggplot2` · `ComplexHeatmap` · `Bayesian modeling` · `Spatial omics`
-
-## 04 — GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiangcongxin&show_icons=true&hide_border=true&bg_color=0f1a0c&title_color=f6f6f4&text_color=a8b5a3&icon_color=778652&rank_icon=github" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangcongxin&layout=compact&hide_border=true&bg_color=0f1a0c&title_color=f6f6f4&text_color=a8b5a3" alt="Top languages" height="160">
+  <a href="https://github.com/jiangcongxin/FibroDynMix">FibroDynMix</a> &nbsp;·&nbsp;
+  <a href="https://github.com/jiangcongxin/ncfigR">ncfigR</a> &nbsp;·&nbsp;
+  <a href="https://github.com/jiangcongxin/nc-bioinformatics-figure-skills">nc-bioinformatics-figure-skills</a> &nbsp;·&nbsp;
+  <a href="https://doi.org/10.5281/zenodo.20787527">DOI</a> &nbsp;·&nbsp;
+  <a href="mailto:jcx981212@163.com">Email</a>
 </p>
-
-## Contact
-
-- Email: [jcx981212@163.com](mailto:jcx981212@163.com)

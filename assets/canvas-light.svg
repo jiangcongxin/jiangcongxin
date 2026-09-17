@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Jiang Congxin — work index. FibroDynMix, ncfigR, nc-bioinformatics-figure-skills. Contact jcx981212@163.com.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#f6f6f1"/><stop offset="1" stop-color="#eaece3"/></linearGradient>
+    <style>
+      .s { font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .m { font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+      .wordmark { font-weight: 500; font-size: 27px; letter-spacing: -0.4px; fill: #12170e; }
+      .num   { font-weight: 500; font-size: 15px; letter-spacing: 1px; fill: #5c6f32; }
+      .kind  { font-weight: 600; font-size: 11.5px; letter-spacing: 2.6px; fill: #7b8673; }
+      .title { font-weight: 400; font-size: 37px; letter-spacing: -1.1px; fill: #12170e; }
+      .desc  { font-weight: 400; font-size: 18px; letter-spacing: -0.15px; fill: #525d4b; }
+      .tick  { font-weight: 500; font-size: 10px; letter-spacing: 0.5px; fill: #7b8673; }
+      .foot  { font-weight: 500; font-size: 14px; letter-spacing: 1.6px; fill: #525d4b; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg)"/>
+
+  <text class="s wordmark" x="80" y="74">Jiang Congxin</text>
+  <text class="m foot" x="1120" y="72" text-anchor="end" opacity="0.7">WORK</text>
+  <line x1="80" y1="110" x2="1120" y2="110" stroke="#12170e" stroke-opacity="0.14" stroke-width="1"/>
+
+  <g transform="translate(0 130)">
+    <text class="m num"  x="80" y="72">01</text>
+    <text class="s kind" x="138" y="32">R PACKAGE · ZENODO DOI</text>
+    <text class="s title" x="136" y="72">FibroDynMix</text>
+    <text class="s desc" x="138" y="104">Marker-anchored negative-binomial modeling of fibroblast-state</text>
+    <text class="s desc" x="138" y="129">mixtures from single-cell counts. NB optimizer, VI posterior, transfer.</text>
+    <g transform="translate(910 30)" opacity="0.95">
+      <path d="M0.0,82.7L3.3,81.7L6.6,80.4L9.8,78.9L13.1,77.1L16.4,75.0L19.7,72.6L23.0,69.9L26.2,66.9L29.5,63.8L32.8,60.4L36.1,56.9L39.4,53.5L42.7,50.1L45.9,46.9L49.2,43.9L52.5,41.2L55.8,38.9L59.1,36.8L62.3,35.0L65.6,33.3L68.9,31.6L72.2,29.6L75.5,27.2L78.8,24.2L82.0,20.6L85.3,16.3L88.6,11.4L91.9,10.0L95.2,10.0L98.4,10.0L101.7,10.0L105.0,10.0L108.3,10.0L111.6,10.0L114.8,10.0L118.1,10.0L121.4,10.0L124.7,10.0L128.0,10.5L131.2,16.2L134.5,21.5L137.8,26.2L141.1,30.1L144.4,33.4L147.7,35.9L150.9,38.1L154.2,39.8L157.5,41.4L160.8,43.0L164.1,44.6L167.3,46.4L170.6,48.4L173.9,50.6L177.2,53.0L180.5,55.5L183.8,58.1L187.0,60.7L190.3,63.4L193.6,66.0L196.9,68.4L200.2,70.8L203.4,72.9L206.7,74.9L210.0,76.7L210,86L0,86Z" fill="#5c6f32" opacity="0.14"/>
+      <path d="M0.0,82.7L3.3,81.7L6.6,80.4L9.8,78.9L13.1,77.1L16.4,75.0L19.7,72.6L23.0,69.9L26.2,67.0L29.5,63.8L32.8,60.4L36.1,57.0L39.4,53.6L42.7,50.3L45.9,47.2L49.2,44.5L52.5,42.2L55.8,40.5L59.1,39.4L62.3,38.9L65.6,39.1L68.9,40.0L72.2,41.5L75.5,43.5L78.8,46.1L82.0,49.0L85.3,52.3L88.6,55.6L91.9,59.1L95.2,62.5L98.4,65.7L101.7,68.8L105.0,71.6L108.3,74.1L111.6,76.3L114.8,78.2L118.1,79.9L121.4,81.2L124.7,82.3L128.0,83.2L131.2,83.9L134.5,84.5L137.8,84.9L141.1,85.2L144.4,85.4L147.7,85.6L150.9,85.7L154.2,85.8L157.5,85.9L160.8,85.9L164.1,86.0L167.3,86.0L170.6,86.0L173.9,86.0L177.2,86.0L180.5,86.0L183.8,86.0L187.0,86.0L190.3,86.0L193.6,86.0L196.9,86.0L200.2,86.0L203.4,86.0L206.7,86.0L210.0,86.0" fill="none" stroke="#12170e" stroke-width="1" opacity="0.28"/>
+      <path d="M0.0,86.0L3.3,86.0L6.6,86.0L9.8,86.0L13.1,86.0L16.4,86.0L19.7,86.0L23.0,86.0L26.2,86.0L29.5,86.0L32.8,86.0L36.1,86.0L39.4,85.9L42.7,85.9L45.9,85.7L49.2,85.5L52.5,85.2L55.8,84.7L59.1,83.9L62.3,82.7L65.6,80.9L68.9,78.6L72.2,75.4L75.5,71.3L78.8,66.3L82.0,60.3L85.3,53.5L88.6,46.2L91.9,38.6L95.2,31.2L98.4,24.6L101.7,19.2L105.0,15.6L108.3,13.9L111.6,14.4L114.8,16.9L118.1,21.4L121.4,27.4L124.7,34.4L128.0,41.9L131.2,49.4L134.5,56.6L137.8,63.0L141.1,68.6L144.4,73.2L147.7,76.9L150.9,79.7L154.2,81.8L157.5,83.2L160.8,84.3L164.1,84.9L167.3,85.4L170.6,85.6L173.9,85.8L177.2,85.9L180.5,85.9L183.8,86.0L187.0,86.0L190.3,86.0L193.6,86.0L196.9,86.0L200.2,86.0L203.4,86.0L206.7,86.0L210.0,86.0" fill="none" stroke="#12170e" stroke-width="1" opacity="0.28"/>
+      <path d="M0.0,86.0L3.3,86.0L6.6,86.0L9.8,86.0L13.1,86.0L16.4,86.0L19.7,86.0L23.0,86.0L26.2,86.0L29.5,86.0L32.8,86.0L36.1,86.0L39.4,86.0L42.7,85.9L45.9,85.9L49.2,85.9L52.5,85.8L55.8,85.7L59.1,85.6L62.3,85.5L65.6,85.3L68.9,85.0L72.2,84.7L75.5,84.3L78.8,83.8L82.0,83.2L85.3,82.5L88.6,81.6L91.9,80.5L95.2,79.3L98.4,77.9L101.7,76.2L105.0,74.4L108.3,72.3L111.6,70.1L114.8,67.8L118.1,65.2L121.4,62.7L124.7,60.0L128.0,57.4L131.2,54.8L134.5,52.4L137.8,50.2L141.1,48.3L144.4,46.7L147.7,45.4L150.9,44.6L154.2,44.2L157.5,44.3L160.8,44.8L164.1,45.8L167.3,47.1L170.6,48.8L173.9,50.8L177.2,53.1L180.5,55.5L183.8,58.1L187.0,60.8L190.3,63.4L193.6,66.0L196.9,68.4L200.2,70.8L203.4,72.9L206.7,74.9L210.0,76.7" fill="none" stroke="#12170e" stroke-width="1" opacity="0.28"/>
+      <path d="M0.0,82.7L3.3,81.7L6.6,80.4L9.8,78.9L13.1,77.1L16.4,75.0L19.7,72.6L23.0,69.9L26.2,66.9L29.5,63.8L32.8,60.4L36.1,56.9L39.4,53.5L42.7,50.1L45.9,46.9L49.2,43.9L52.5,41.2L55.8,38.9L59.1,36.8L62.3,35.0L65.6,33.3L68.9,31.6L72.2,29.6L75.5,27.2L78.8,24.2L82.0,20.6L85.3,16.3L88.6,11.4L91.9,10.0L95.2,10.0L98.4,10.0L101.7,10.0L105.0,10.0L108.3,10.0L111.6,10.0L114.8,10.0L118.1,10.0L121.4,10.0L124.7,10.0L128.0,10.5L131.2,16.2L134.5,21.5L137.8,26.2L141.1,30.1L144.4,33.4L147.7,35.9L150.9,38.1L154.2,39.8L157.5,41.4L160.8,43.0L164.1,44.6L167.3,46.4L170.6,48.4L173.9,50.6L177.2,53.0L180.5,55.5L183.8,58.1L187.0,60.7L190.3,63.4L193.6,66.0L196.9,68.4L200.2,70.8L203.4,72.9L206.7,74.9L210.0,76.7" fill="none" stroke="#5c6f32" stroke-width="1.8"/>
+      <line x1="0" y1="86" x2="210" y2="86" stroke="#12170e" stroke-opacity="0.20"/>
+    </g>
+    <line x1="80" y1="160" x2="1120" y2="160" stroke="#12170e" stroke-opacity="0.14" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(0 290)">
+    <text class="m num"  x="80" y="72">02</text>
+    <text class="s kind" x="138" y="32">R PACKAGE</text>
+    <text class="s title" x="136" y="72">ncfigR</text>
+    <text class="s desc" x="138" y="104">Bioinformatics figure panels drawn from tidy source-data tables —</text>
+    <text class="s desc" x="138" y="129">embedding, composition, heatmap, network, trajectory, export.</text>
+    <g transform="translate(910 30)" opacity="0.95">
+      <rect x="4.0" y="57.1" width="6.6" height="28.9" fill="#5c6f32" opacity="0.70"/>
+      <rect x="15.8" y="35.8" width="6.6" height="50.2" fill="#5c6f32" opacity="0.70"/>
+      <rect x="27.7" y="48.0" width="6.6" height="38.0" fill="#5c6f32" opacity="0.70"/>
+      <rect x="39.6" y="22.2" width="6.6" height="63.8" fill="#5c6f32" opacity="0.70"/>
+      <rect x="51.4" y="61.7" width="6.6" height="24.3" fill="#5c6f32" opacity="0.70"/>
+      <polyline points="75.3,66.2 90.2,52.6 105.0,57.1 119.8,38.9 134.7,25.2" fill="none" stroke="#12170e" stroke-width="1.4" opacity="0.45"/>
+      <circle cx="75.3" cy="66.2" r="2.4" fill="#5c6f32" opacity="0.85"/>
+      <circle cx="90.2" cy="52.6" r="2.4" fill="#5c6f32" opacity="0.85"/>
+      <circle cx="105.0" cy="57.1" r="2.4" fill="#5c6f32" opacity="0.85"/>
+      <circle cx="119.8" cy="38.9" r="2.4" fill="#5c6f32" opacity="0.85"/>
+      <circle cx="134.7" cy="25.2" r="2.4" fill="#5c6f32" opacity="0.85"/>
+      <rect x="150.7" y="10.0" width="11.8" height="22.3" fill="#5c6f32" opacity="0.18"/>
+      <rect x="165.5" y="10.0" width="11.8" height="22.3" fill="#5c6f32" opacity="0.39"/>
+      <rect x="180.3" y="10.0" width="11.8" height="22.3" fill="#5c6f32" opacity="0.25"/>
+      <rect x="195.2" y="10.0" width="11.8" height="22.3" fill="#5c6f32" opacity="0.51"/>
+      <rect x="150.7" y="35.3" width="11.8" height="22.3" fill="#5c6f32" opacity="0.43"/>
+      <rect x="165.5" y="35.3" width="11.8" height="22.3" fill="#5c6f32" opacity="0.21"/>
+      <rect x="180.3" y="35.3" width="11.8" height="22.3" fill="#5c6f32" opacity="0.47"/>
+      <rect x="195.2" y="35.3" width="11.8" height="22.3" fill="#5c6f32" opacity="0.29"/>
+      <rect x="150.7" y="60.7" width="11.8" height="22.3" fill="#5c6f32" opacity="0.24"/>
+      <rect x="165.5" y="60.7" width="11.8" height="22.3" fill="#5c6f32" opacity="0.53"/>
+      <rect x="180.3" y="60.7" width="11.8" height="22.3" fill="#5c6f32" opacity="0.33"/>
+      <rect x="195.2" y="60.7" width="11.8" height="22.3" fill="#5c6f32" opacity="0.19"/>
+      <line x1="0" y1="86" x2="210" y2="86" stroke="#12170e" stroke-opacity="0.20"/>
+    </g>
+    <line x1="80" y1="160" x2="1120" y2="160" stroke="#12170e" stroke-opacity="0.14" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(0 450)">
+    <text class="m num"  x="80" y="72">03</text>
+    <text class="s kind" x="138" y="32">CODEX SKILL · 7 R PACKAGES</text>
+    <text class="s title" x="136" y="72">nc-bioinformatics-figure-skills</text>
+    <text class="s desc" x="138" y="104">NC-style figure training and plotting toolkits: a Codex skill,</text>
+    <text class="s desc" x="138" y="129">reference notes, and seven R packages from ncfigR to multiomfigR.</text>
+    <g transform="translate(910 30)" opacity="0.95">
+      <rect x="0.0" y="10.0" width="96.6" height="76.0" fill="none"/>
+      <rect x="0.0" y="10.0" width="96.6" height="76.0" fill="none" stroke="#12170e" stroke-opacity="0.3"/>
+      <rect x="108.6" y="10.0" width="101.4" height="32.0" fill="none"/>
+      <rect x="108.6" y="10.0" width="101.4" height="32.0" fill="none" stroke="#12170e" stroke-opacity="0.3"/>
+      <rect x="108.6" y="54.0" width="101.4" height="32.0" fill="#5c6f32" opacity="0.16"/>
+      <rect x="108.6" y="54.0" width="101.4" height="32.0" fill="none" stroke="#5c6f32" stroke-opacity="0.55"/>
+      <line x1="9" y1="29.0" x2="87.6" y2="29.0" stroke="#12170e" stroke-opacity="0.13"/>
+      <line x1="9" y1="48.0" x2="87.6" y2="48.0" stroke="#12170e" stroke-opacity="0.13"/>
+      <line x1="9" y1="67.0" x2="87.6" y2="67.0" stroke="#12170e" stroke-opacity="0.13"/>
+      <polyline points="9.0,63.2 28.7,43.4 48.3,52.6 68.0,29.8 87.6,38.9" fill="none" stroke="#5c6f32" stroke-width="1.4" opacity="0.75"/>
+      <text class="m tick" x="0.0" y="6.0">a</text>
+      <text class="m tick" x="108.6" y="6.0">b</text>
+      <text class="m tick" x="108.6" y="50.0">c</text>
+    </g>
+    <line x1="80" y1="160" x2="1120" y2="160" stroke="#12170e" stroke-opacity="0.14" stroke-width="1"/>
+  </g>
+
+  <circle cx="84" cy="664" r="4" fill="#5c6f32"/>
+  <text class="m foot" x="100" y="668">jcx981212@163.com</text>
+  <text class="m foot" x="1120" y="668" text-anchor="end" opacity="0.7">github.com/jiangcongxin</text>
+</svg>
