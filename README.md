@@ -17,6 +17,14 @@ I use **Codex and Claude** to explore ideas, write code, and make tools for medi
 | **ClinFrame · 文书助手** | Helps physicians organize clinical information and prepare medical documents. | [Product website](https://clinframe.com/) |
 | **ClinSift · 临析** | Brings clinical research data management, statistical analysis, and publication-ready charts and tables to iPhone. | [Public support pages](https://github.com/jiangcongxin/ClinSift-Support) |
 
+### Everyday tools
+
+| Project | Purpose | Explore |
+| :--- | :--- | :--- |
+| **[EchoLine](https://github.com/jiangcongxin/EchoLine)** | A macOS app for collecting English sentences, exploring them with AI, and practicing through listening, shadowing, and typing. | [Build and run](https://github.com/jiangcongxin/EchoLine#build-and-run) · [Noncommercial license](https://github.com/jiangcongxin/EchoLine/blob/main/LICENSE) |
+
+EchoLine's source is available for noncommercial use. Commercial use requires separate written permission.
+
 ### Research tools
 
 | Project | Purpose | Explore |
@@ -27,7 +35,7 @@ I use **Codex and Claude** to explore ideas, write code, and make tools for medi
 
 ### What I like building
 
-Medical tools · Research software · Data visualizations · Small experiments with AI
+Medical tools · Language learning apps · Research software · Data visualizations · Small experiments with AI
 
 **Made with** &nbsp; Codex · Claude · SwiftUI · R · Python
 
