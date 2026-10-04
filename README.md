@@ -21,9 +21,7 @@ I use **Codex and Claude** to explore ideas, write code, and make tools for medi
 
 | Project | Purpose | Explore |
 | :--- | :--- | :--- |
-| **[EchoLine](https://github.com/jiangcongxin/EchoLine)** | A macOS app for collecting English sentences, exploring them with AI, and practicing through listening, shadowing, and typing. | [Build and run](https://github.com/jiangcongxin/EchoLine#build-and-run) · [Noncommercial license](https://github.com/jiangcongxin/EchoLine/blob/main/LICENSE) |
-
-EchoLine's source is available for noncommercial use. Commercial use requires separate written permission.
+| **[EchoLine](https://github.com/jiangcongxin/EchoLine)** | A macOS app for collecting English sentences, exploring them with AI, and practicing through listening, shadowing, and typing. | [Build and run](https://github.com/jiangcongxin/EchoLine#build-and-run) |
 
 ### Research tools
 
