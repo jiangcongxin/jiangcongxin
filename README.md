@@ -1,12 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/research-header-light.svg">
-  <img src="assets/research-header-light.svg" alt="Ying Jiang | Clinical medicine, research and AI. Surgical training, medical software and omics research." width="100%">
+  <img src="assets/research-header-light.svg" alt="Ying Jiang | Medicine, AI and things worth building." width="100%">
 </picture>
 
-I'm **Ying Jiang (江颖)**, a physician currently undertaking standardized residency training in surgery at **Foshan First People's Hospital**. My background includes research-oriented master's training at **the Second Affiliated Hospital of Nanchang University**, with a focus on bioinformatics and medical omics.
+I'm **Ying Jiang (江颖)**. Medicine is my starting point; AI opens up what I can build.
 
-I embrace AI as part of how I build and learn. I use **Codex and Claude Science** for medical software development and scientific writing, turning clinical requirements into working prototypes and checking the outputs with medical and statistical knowledge.
+I use **Codex and Claude Science** to explore ideas, write code, and make tools for medicine, research, and everyday life.
+
+**Building things that are useful, fun, and worth sharing.**
 
 ### Medical software
 
@@ -23,18 +25,14 @@ I embrace AI as part of how I build and learn. I use **Codex and Claude Science*
 | **[ncfigR](https://github.com/jiangcongxin/ncfigR)** | Draws consistent bioinformatics figure panels from tidy analysis tables. | [Install and example](https://github.com/jiangcongxin/ncfigR#installation) |
 | **[NC Bioinformatics Figure Skills](https://github.com/jiangcongxin/nc-bioinformatics-figure-skills)** | A Codex skill and R toolkit collection for planning and creating bioinformatics figures. | [Package map](https://github.com/jiangcongxin/nc-bioinformatics-figure-skills#r-package-map) |
 
-### Across disciplines
+### What I like building
 
-**Clinical foundation** &nbsp; Surgical residency training · Case management · Clinical workflows
+Medical tools · Research software · Data visualizations · Small experiments with AI
 
-**Research** &nbsp; Single-cell and spatial omics · Statistical modeling · Cross-cohort validation
-
-**AI practice** &nbsp; Codex · Claude Science · AI-assisted coding and scientific writing
-
-**Development** &nbsp; SwiftUI · R · Python
+**Made with** &nbsp; Codex · Claude Science · SwiftUI · R · Python
 
 ---
 
-For research collaboration or medical software projects: **[jcx981212@163.com](mailto:jcx981212@163.com)**
+Have an idea to build together? **[jcx981212@163.com](mailto:jcx981212@163.com)**
 
 <sub>[GitHub projects](https://github.com/jiangcongxin?tab=repositories) · [FibroDynMix archive](https://doi.org/10.5281/zenodo.20787527)</sub>
