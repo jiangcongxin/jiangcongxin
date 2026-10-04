@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/research-header-light.svg">
-  <img src="assets/research-header-light.svg" alt="Ying Jiang | Medicine, AI and things worth building." width="100%">
+  <img src="assets/research-header-light.svg" alt="jiangcongxin | Medicine, AI and things worth building." width="100%">
 </picture>
 
-I'm **Ying Jiang (江颖)**. Medicine is my starting point; AI opens up what I can build.
+I'm **jiangcongxin**. Medicine is my starting point; AI opens up what I can build.
 
 I use **Codex and Claude Science** to explore ideas, write code, and make tools for medicine, research, and everyday life.
 
