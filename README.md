@@ -6,7 +6,7 @@
 
 I'm **jiangcongxin**. Medicine is my starting point; AI opens up what I can build.
 
-I use **Codex and Claude Science** to explore ideas, write code, and make tools for medicine, research, and everyday life.
+I use **Codex and Claude** to explore ideas, write code, and make tools for medicine, research, and everyday life.
 
 **Building things that are useful, fun, and worth sharing.**
 
@@ -29,7 +29,7 @@ I use **Codex and Claude Science** to explore ideas, write code, and make tools 
 
 Medical tools · Research software · Data visualizations · Small experiments with AI
 
-**Made with** &nbsp; Codex · Claude Science · SwiftUI · R · Python
+**Made with** &nbsp; Codex · Claude · SwiftUI · R · Python
 
 ---
 
